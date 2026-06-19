@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://scrid26quesn.github.io/cnwebs-ckw-com/sitemap.xml
